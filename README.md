@@ -16,25 +16,16 @@ If you want to download the official releases, please check out the original rep
 
 > Windows support is reduced to the absolute minimum for maintainability.
 
-SDL2 has not been updated from 2.0.10 (2.0.14 introduced support for Dualsense
-controllers in Windows), and the binary release has a problem with blinking
-frames. It seems that building using updated libraries and software fixes
-these issues, so I wanted to automate this to be as open as possible.
+SDL2 has been updated to 2.0.22
 
 ### What's updated by new libraries?
 
 - Support for PlayStation Dualsense and XBox Series S|X controllers
 - Hardware video acceleration for decoding
 
-### What's not updated?
-
-- Choppy audio (YMMV)
-
 ### What's missing (but from the official release, too)?
 
-- Motion controls
-- Rumble / force feedback
-- Adaptative triggers
+- Microphone
 
 # About Chiaki
 
